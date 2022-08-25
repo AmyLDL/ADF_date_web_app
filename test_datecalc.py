@@ -1,5 +1,5 @@
 '''
-This programme will be used to test application duration and when calculation
+This programme will be used to test Date Calculator
 '''
 # import libraries
 from datecalc import duration
